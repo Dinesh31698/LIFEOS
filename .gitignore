@@ -1,0 +1,59 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Android build files
+.gradle/
+**/build/
+.kotlin/
+
+# Local Android SDK settings
+local.properties
+
+# Android Studio files
+.idea/
+*.iml
+
+# Private keys and credentials
+*.jks
+*.keystore
+keystore.properties
+secrets.properties
+.env
+.env.*
+
+# Windows and macOS files
+.DS_Store
+Thumbs.db
+
+# Temporary UI inspection and test artifacts in project root
+/current_screen.xml
+/dump_phase4_after.xml
+/dump_phase4_initial.xml
+/empty_mode.xml
+/full_college.xml
+/one_item_0.xml
+/one_item_1.xml
+/partial_college.xml
+/phase5_dump.xml
+
+# Temporary root-level SQL test scripts
+/large_checklist.sql
+/modify_sports.sql
+/setup_college.sql
+/setup_sports.sql
+/test_cross_activity.sql
+/test_delete.sql
+/test_unicode.sql
